@@ -1,0 +1,14 @@
+
+.container input{
+  width: 44px;           /* fixed box width */
+  height: 44px;
+  text-align: center;    /* digit in center */
+  font-size: 18px;
+  border: 1px solid #ccc;
+ 
+  outline: none;
+}
+/* input {
+  
+} */
+/* OTP.css */

@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-export default function InfiScroll() {
+export default function InfiScroll_testExp() {
   const [images, setImages] = useState([]);
   const [page, setPage] = useState(1);
 
@@ -59,7 +59,7 @@ export default function InfiScroll() {
 
 // import { useState,useEffect } from "react";
 
-// export default function InfiScroll() {
+// export default function InfiScroll_testExp() {
 //   const [count, setCount] = useState(50);
 
 //   useEffect(() => {

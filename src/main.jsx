@@ -12,13 +12,14 @@ import DebouncedSearch from './DebouncedSearch.jsx'
 // import InfiniteNoCSS from './InfiniteNoCSS.jsx'
 // import InfiScroll from './InfiScroll.jsx'
 import InfiniteScrollFinal from './InfiniteScrollFinal.jsx'
+import OTP from './OTP.jsx'
 
 
 
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    {/* <App /> */}
+    <App />
     {/* <Child_3 /> */}
     {
     // <Accordion /> 
@@ -27,7 +28,8 @@ createRoot(document.getElementById('root')).render(
     // <InfiniteScroll />
     // <InfiniteNoCSS />
     // <InfiScroll />
-    <InfiniteScrollFinal />  
+    // <InfiniteScrollFinal />  
+    
 
     // <Pagination />
     }
