@@ -8,9 +8,11 @@ import Accordion from './Accodion.jsx'
 import Pagination from './Pagination.jsx'
 import Slider from './Slider.jsx'
 import DebouncedSearch from './DebouncedSearch.jsx'
-import InfiniteScroll from './InfiniteScroll.jsx'
-import InfiniteNoCSS from './InfiniteNoCSS.jsx'
-import InfiScroll from './InfiScroll.jsx'
+// import InfiniteScroll from './InfiniteScroll.jsx'
+// import InfiniteNoCSS from './InfiniteNoCSS.jsx'
+// import InfiScroll from './InfiScroll.jsx'
+import InfiniteScrollFinal from './InfiniteScrollFinal.jsx'
+
 
 
 
@@ -24,7 +26,8 @@ createRoot(document.getElementById('root')).render(
     // <DebouncedSearch />
     // <InfiniteScroll />
     // <InfiniteNoCSS />
-    <InfiScroll />
+    // <InfiScroll />
+    <InfiniteScrollFinal />  
 
     // <Pagination />
     }
